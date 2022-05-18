@@ -26,7 +26,8 @@ dictionary={}
 i = 0
 for element in mb:
     list.append(element)
-    #dictionary[observacion] =
+    #dictionary[observacion:
+    :1q}
     #dictionary[]
     #dictionary[]
     #dictionary[]
